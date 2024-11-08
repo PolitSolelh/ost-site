@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face{
+    font-family: AgencyFB;
+    src: url(./fonts/AGENCYB.TTF);
+}
+
+body{
+    background-color: #111;
+    color: #fff;
+}
